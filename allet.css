@@ -55,6 +55,10 @@ body{
     border-radius: 5px;
     background-color: #fff;
 }
+.imager{
+    border-radius: 10px;
+    background-color: #fff;
+}
 
 img{
     width: 75%;
